@@ -4,7 +4,7 @@
 
 ## 🚀 Mes projets
 
-### 🧩 [Suivi des consommations électriques et gaz logement](https://github.com/davidmouquetGit/API-collect-electrical-consumption)
+### 🧩 [Suivi des consommations électriques et gaz logement](https://github.com/davidmouquetGit/Energy-Tracking)
 Description
 
 ### [Développement d'une API pour la collecte des consommations de Gaz et d'électricité des logement particuliers](https://github.com/davidmouquetGit/API-collect-electrical-consumption)
