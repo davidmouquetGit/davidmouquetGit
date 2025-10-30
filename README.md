@@ -1,6 +1,6 @@
 # Bonjour, je suis David Mouquet
 
-Data Scientist
+*README en construction*
 
 ## 🚀 Mes projets
 
